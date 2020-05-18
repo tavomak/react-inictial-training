@@ -7,7 +7,7 @@ class App extends Component {
         return(
             <div className="App">
                 <CicloDeActualizacion />
-                <CicloDeDesmontaje />
+                {/* <CicloDeDesmontaje /> */}
             </div>
         )
     }
